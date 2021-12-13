@@ -1,0 +1,27 @@
+.container {
+  width: 500px;
+  text-align: center;
+  margin: auto;
+  background-color: #ecf1ec;
+  border-radius: 20px;
+  margin-top: 7%;
+  padding: 35px;
+}
+.MuiPaper-root {
+  width: 100% !important;
+  border-radius: 10px !important;
+}
+.MuiGrid-root {
+  word-break: break-word !important;
+}
+.app {
+  height: 100%;
+  background-color: red;
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  background: rgb(225 202 202 / 70%);
+}
+.output-label {
+  padding: 20px;
+}
