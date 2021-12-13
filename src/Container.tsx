@@ -3,7 +3,6 @@ import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
 import Box from "@mui/material/Box";
 import "./App.css";
-
 import Paper from "@mui/material/Paper";
 import InputBase from "@mui/material/InputBase";
 import React from "react";
